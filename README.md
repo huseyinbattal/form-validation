@@ -8,4 +8,6 @@ Password  : 12345
 
 Live Demo : https://form-validation-huseyin-battal.netlify.app/
 
-![form-validation](https://user-images.githubusercontent.com/95706081/177315279-d5563075-f901-4231-97d4-ac91ed9c5944.gif)
+
+
+https://user-images.githubusercontent.com/95706081/177382080-9b7649ec-68a6-4f80-85bc-50c748308d15.mp4
