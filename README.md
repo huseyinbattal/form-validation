@@ -1,4 +1,4 @@
-# Create React Form Validation
+# React Form Validation
 
 In this project I built a form with React.js
 
