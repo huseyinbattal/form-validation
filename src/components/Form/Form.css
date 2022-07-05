@@ -1,0 +1,13 @@
+.custom-form {
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  width: 360px;
+  height: 450px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(500, 500, 500, 0.9);
+  border-radius: 20px;
+  border: 1px dotted wheat;
+}

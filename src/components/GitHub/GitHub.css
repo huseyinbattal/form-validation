@@ -1,0 +1,33 @@
+.github {
+  border: 1px solid red;
+  border-radius: 50%;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.icon {
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.icon:hover {
+  border: none;
+  background-color: wheat;
+  border-radius: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link:hover {
+  color: red;
+}
